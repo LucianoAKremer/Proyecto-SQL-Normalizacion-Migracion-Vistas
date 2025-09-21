@@ -1,18 +1,16 @@
 # 📘 Estrategia de Negocios - Caso Sillones
 
 ## 📌 Descripción
-Este proyecto corresponde a un **caso de estudio académico** en el cual se planteó la problemática de una empresa del rubro mobiliario (sillones).  
-Mi tarea consistió en **analizar la situación de la compañía y diseñar una estrategia integral** que abordara sus desafíos principales y potenciara su competitividad.  
+Este proyecto es un trabajo práctico académico realizado en la materia Gestión de Datos (UTN FRBA, 1° Cuatrimestre 2025). Se basa en el caso de una fábrica de sillones (FRBA), donde se requería diseñar y migrar una base de datos relacional a un modelo de Business Intelligence (BI) para analizar métricas clave del negocio.
 
-Además de lo técnico, este proyecto representó una experiencia clave en **trabajo colaborativo y liderazgo**, donde ejercí la coordinación de mi equipo, resolviendo conflictos y administrando emociones para mantener la cohesión del grupo.
+Mi rol incluyó el diseño del modelo de datos, la creación de scripts SQL para migración, y la implementación de vistas para KPIs. Además, coordiné el equipo de trabajo, resolviendo conflictos y fomentando la colaboración, lo que fortaleció mis habilidades en liderazgo y gestión de grupos.
 
 ## 🎯 Objetivos del Proyecto
-- Analizar el escenario planteado en la consigna.  
-- Detectar oportunidades y amenazas del mercado.  
-- Evaluar fortalezas y debilidades internas de la empresa.  
-- Formular alternativas estratégicas viables.  
-- Proponer un plan de acción enfocado en marketing, operaciones y gestión.  
-- Desarrollar habilidades de **liderazgo e interacción con pares**.  
+- Analizar una tabla maestra y derivar un modelo relacional normalizado.
+- Migrar datos a un esquema relacional con integridad referencial.
+- Diseñar un modelo BI con dimensiones y tablas de hechos para análisis multidimensional.
+- Implementar vistas SQL para calcular indicadores de negocio (KPIs) como ganancias, rendimiento de productos y cumplimiento   de envíos.
+- Desarrollar habilidades en trabajo en equipo, coordinación y resolución de problemas técnicos.
 
 ## 🛠️ Metodología Aplicada
 - **Análisis externo**: estudio de mercado, tendencias y competencia.  
